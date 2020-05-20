@@ -9,6 +9,10 @@ a{
     text-decoration: none;
 }
 
+#contacts{
+    color: #e0ac1c;
+}
+
 header{
     background-color: #30373b;
     color: white;
