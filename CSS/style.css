@@ -61,7 +61,13 @@ section {
     padding: 55px;
     
 }*/
+#hoja{
+	text-align: center;
+}
 
+#holan{
+	box-align: left;
+}
 
 footer{
 	position: fixed;
